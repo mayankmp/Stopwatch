@@ -6,7 +6,7 @@ This repository contains a simple and elegant Stopwatch web app built using CSS 
 
 - Add new time with a user-friendly interface.
 - Start time to analyze.
-- Delete completed time using Reset button.
+- Delete completed time using the Reset button.
 - Start time.
 - Pause time whenever wanted.
 
