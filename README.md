@@ -12,7 +12,7 @@ This repository contains a simple and elegant Stopwatch web app built using CSS 
 
 ## Live Demo
 
-You can check out the live demo of the Todo List web app [here](https://mayankmp.github.io/To-do-list/).
+You can check out the live demo of the Todo List web app [here](https://mayankmp.github.io/Stopwatch/).
 
 ## Screenshots
 
